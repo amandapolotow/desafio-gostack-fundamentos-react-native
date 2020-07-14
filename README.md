@@ -1,5 +1,7 @@
 <h1>GoMarketplace</h1>
 
+<img src="https://github.com/amandapolotow/desafio-gostack-fundamentos-react-native/blob/master/layout.JPG" alt="GoMarketplace Layout" height="400" />
+
 <h2>Introduction</h1>
 
 <p>This app was built as an exercise to practice the use of AsyncStorage in React Native. 
