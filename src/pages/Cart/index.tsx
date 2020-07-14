@@ -3,7 +3,6 @@ import FeatherIcon from 'react-native-vector-icons/Feather';
 
 import { View } from 'react-native';
 
-import { idText } from 'typescript';
 import {
   Container,
   ProductContainer,
